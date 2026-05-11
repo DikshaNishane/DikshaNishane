@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- DARK THEME GITHUB PROFILE README -->
+<!-- Premium | Modern | AI-Focused | Recruiter-Friendly -->
 
-<!--
-**DikshaNishane/DikshaNishane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<!-- ANIMATED HERO SECTION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Diksha+Nishane+👋;AI+%7C+Computer+Vision+Engineer;Building+Tomorrow's+Intelligence+Today" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- PREMIUM BANNER -->
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a713-7c3f-4404-b615-69a18ee4a56f.gif" width="100%" height="200" alt="Banner" />
+
+<br/>
